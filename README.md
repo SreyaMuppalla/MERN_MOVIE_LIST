@@ -1,1 +1,1 @@
-# mern-movie-list
+# MERN_MOVIE_LIST
